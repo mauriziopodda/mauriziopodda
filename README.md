@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @mauriziopodda
+- 👀 I’m interested in React / Typescript / UX
